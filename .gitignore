@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# JetBrains generated
+.idea
+.DS_Store
+
+# VsCode
+.vscode
